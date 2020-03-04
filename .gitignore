@@ -1,0 +1,5 @@
+/.venv
+/.vscode
+/.idea/
+/server_key/
+/ref

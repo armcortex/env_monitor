@@ -1,0 +1,16 @@
+{
+  "WIFI": {
+    "STA_SSID": "your_station_ssid",
+    "STA_PASSWORD": "your_station_password",
+    "AP": false,
+    "AP_SSID": "your_ap_ssid",
+    "AP_PASSWORD": "your_ap_password"
+  },
+  "DATABASE": {
+    "USERNAME": "username",
+    "PASSWORD": "password",
+    "DB": "mydb",
+    "URL": "http://ip:8086"
+  },
+  "BRIGHTNESS": "HIGH"
+}

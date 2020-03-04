@@ -1,0 +1,1 @@
+pipenv run ampy --port /dev/ttyUSB0 ls
