@@ -1,5 +1,5 @@
-# Environment Monitor
-Collecting sensors data for NodeMCU platform display on Grafana.
+# 🚀 IoT Climate Hub 🌡️
+Harness the power of ESP32 & NodeMCU to monitor real-time humidity & temperature. With SHT20 sensors, Raspberry Pis, InfluxDB, and Grafana, get instant climate insights, wherever you are in your home. Plus, a built-in watchdog for robustness! Dive in. 🌐💡
 
 #![Dashboard](docs/dashboard.jpg)
 
